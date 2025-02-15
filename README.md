@@ -1,3 +1,4 @@
+
 # Cypress Component Testing Project
 
 This project demonstrates the setup and usage of Cypress for component testing in a React application.
@@ -36,4 +37,3 @@ npm install @testing-library/react @cypress/testing-library --save-dev
 
 
 5. npx cypress open
-

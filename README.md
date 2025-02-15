@@ -24,6 +24,10 @@ npm install cypress --save-dev
 
 # Install Webpack and Babel
 npm install webpack webpack-cli --save-dev
+
+
+
+
 npm install babel-loader @babel/core @babel/preset-env @babel/preset-react --save-dev
 
 # Install Cypress Webpack Dev Server
